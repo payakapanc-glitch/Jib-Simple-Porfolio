@@ -14,5 +14,5 @@ A modern, minimalist, and developer-centric portfolio website designed for a rec
 - Vanilla JavaScript
 
 ## Deployment
-This project is deployed using GitHub Pages. 
+This project is deployed using GitHub Pages from the `/docs` folder. 
 Live site: [https://payakapanc-glitch.github.io/Jib-Simple-Porfolio/](https://payakapanc-glitch.github.io/Jib-Simple-Porfolio/)
